@@ -17,3 +17,8 @@ I'd love to add following features:
 
 - Cross-Platform Access
   Access your planning ecosystem from desktop environments and mobile devices (Android/iOS).
+
+the name of application :) should be something like calendula  :))  with nice flowers and colors .
+
+the name of application :) should be something like calendula  :))  with nice flowers and colors .  added init icon for future mood board 
+
